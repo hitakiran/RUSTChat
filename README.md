@@ -49,6 +49,8 @@ Issues I forsee running into include:
 - Making sure to handle potential errors such as failed connections or message delivery issues.
 - Creating a simple but functional interface for the clients to send and receive messages, making sure it is intuitive and reliable.
 
-REFERENCES: 
-I do not have any references. But the idea to work on the project is from "SP25 CS128 Honors Final Project Information" document. 
+REFERENCES: (While working on the project): 
+https://www.youtube.com/watch?v=JiuouCJQzSQ
+https://www.youtube.com/watch?v=F27PLin3TV0
+
 
