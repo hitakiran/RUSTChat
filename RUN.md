@@ -1,12 +1,14 @@
 RUSTChat
 - My project is a terminal-based client-server application written in Rust. It allows multiple clients to connect to a server and exchange messages in real time.
 
----Few Prerequisites:---
+---
+Few Prerequisites:
 Before running the project, make sure to have the following installed: 
 - RUST
 - Git (for cloning)
 
----Running the Project:---
+---
+Running the Project:
 1. Clone the Repository
 ```bash
 git clone https://github.com/hitakiran/cs128H_finalproject.git
@@ -42,7 +44,10 @@ Server is Connected! Type a message to send:
 - Repeat step 3 in more terminals to test with multiple clients connected at once.
 
 
----EXAMPLE:---
+---
+
+EXAMPLE:
+
 
 ## Server Terminal:
 ```bash
@@ -58,7 +63,3 @@ Hello world!
 Message is sent!
 > Hello world!
 ```
-
-
-
-
