@@ -1,4 +1,4 @@
-# cs128H_finalproject
+# RUSTChat
 **Working on Project Individually**
 
 Simple Chat Built Using Rust
